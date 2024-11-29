@@ -137,7 +137,6 @@ Copiar código
 {
   "even_numbers": [4, 8]
 }
-(Continúa documentando los demás endpoints de manera similar...)
 
 Notas sobre Docker
 Comandos Útiles
